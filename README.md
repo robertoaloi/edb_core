@@ -1,4 +1,4 @@
-mylib
+edb_core
 =====
 
 An OTP library
